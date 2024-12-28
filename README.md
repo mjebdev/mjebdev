@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on developing apps on the Sailfish OS platform in my spare time.
+- 🤔 I’m looking for help with translations and icons. Thank you to those who have already contributed!
+- 📫 How to reach me: <a href="mailto:michael@mjeb.dev">michael@mjeb.dev</a>
+
 <!--
 **mjebdev/mjebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
