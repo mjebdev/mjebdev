@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing apps on the Sailfish OS platform in my spare time.
 - 🤔 I’m looking for help with translations and icons. Thanks to those that have contributed!
 - 📫 How to reach me: <a href="mailto:michael@mjeb.dev">michael@mjeb.dev</a>
-- 🔗 Sailfish OS Forum <a href="https://forum.sailfishos.org/u/MikeB/summary">MikeB</a>
+- 🔗 Sailfish OS Forum & Jolla Store <a href="https://forum.sailfishos.org/u/MikeB/summary">MikeB</a>
 - 🔗 OpenRepos <a href="https://openrepos.net/users/mjbdev">mjbdev</a>
 - 🔗 1Password Community <a href="https://www.1password.community/users/em_jay_be/17063">eM_Jay_Be</a>
 - 🔗 Ko-Fi <a href="https://ko-fi.com/mjebdev">mjebdev</a>
